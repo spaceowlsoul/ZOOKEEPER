@@ -1,4 +1,4 @@
-### :lion: ZOOKEEPER
+### :lion: :zebra: :elephant: :tiger: :giraffe: ZOOKEEPER
 
 It's a program that allows you to observe six animals in an imaginary zoo using six surveilling cameras.
 
